@@ -1,7 +1,7 @@
 {
-  "version": "3.1.1-beta.3",
-  "versionCode": 40,
-  "zipUrl": "https://staros.lqbz.dpdns.org/gh/lqbz6office/star-os-beta/main/zz_star_os-3.1.1-beta.3-online.zip",
+  "version": "3.1.1-beta.4",
+  "versionCode": 41,
+  "zipUrl": "https://staros.lqbz.dpdns.org/gh/lqbz6office/star-os-beta/main/zz_star_os-3.1.1-beta.4-online.zip",
   "changelog": "https://staros.lqbz.dpdns.org/gh/lqbz6office/star-os-beta/main/changelog.md",
   "channel": "beta"
 }
